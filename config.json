@@ -1,0 +1,90 @@
+{
+  "colors": {
+    "nameColor": "rgb(255,255,255)",
+    "nameOpacity": 1,
+    "descriptionColor": "rgb(216,216,216)",
+    "descriptionOpacity": 0.8,
+    "profileCard": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur": 20
+    },
+    "musicPlayer": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur": 16
+    }
+  },
+  "personal": {
+    "name": "edit in config.json",
+    "introText": "edit in config.json",
+    "description": "hello i got this site from github",
+    "location": "ohio",
+    "profileImage": "assets/profile-picture.png"
+  },
+  "badges": [
+    { "name": "Nitro", "icon": "assets/badges/nitro.webp" },
+    { "name": "boost", "icon": "assets/badges/boost.webp" },
+    { "name": "staff", "icon": "assets/badges/staff.webp" }
+  ],
+  "music": {
+    "enabled": true,
+    "title": "Everything in Its Right Place", 
+    "url": "assets/songs/radiohead-everything_in_its_right_place.mp3", 
+    "duration": 356, 
+    "albumCover": "assets/images/sarki.png" 
+  },
+  "social": [
+    {
+      "name": "youtube", 
+      "url": "https://www.youtube.com/@newdaynewgame",
+      "icon": "assets/social-icons/youtube.png"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/minecraft",
+      "icon": "assets/social-icons/discord.png"
+    },
+    {
+      "name": "twitter",
+      "url": "twitterım yok",
+      "icon": "assets/social-icons/twitter.png"
+    },
+    {
+      "name": "github",
+      "url": "https://www.github.com/toprakatess1/",
+      "icon": "assets/social-icons/github.png"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/topr4kates/",
+      "icon": "assets/social-icons/instagram.png"
+    }
+  ],
+  "site": {
+    "title": "config.json",
+    "titleTypewriter": "config.json",
+    "favicon": "https://media.discordapp.net/attachments/1255692212717752513/1364102217426272356/white_crown.gif?ex=68431d70&is=6841cbf0&hm=8aaa7dac368937e0d8aa0b0d921a854b6765280d6cef4f83de2baa103912950e&=",
+    "background": {
+      "type": "video",
+      "video": "assets/backgrounds/dark-theme.mp4",
+      "video-light": "assets/backgrounds/light-theme.mp4", 
+      "image": "assets/images/background.jpg" 
+    },
+    "bannerImage": "assets/profile-banner.png", 
+    "profileDecoration": "assets/images/decoration.gif", 
+    "effects": { 
+      "snow": false, 
+      "card3D": true,
+      "cursorFollower": true,
+      "stars": false,
+      "musicVisualizer": true,
+      "typewriter": false
+    },
+    "ui": {
+      "viewCount": 6383,
+      "onlineStatus": true
+    },
+    "layout": "vertical"
+  }
+}
